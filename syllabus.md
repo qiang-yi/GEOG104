@@ -1,10 +1,21 @@
-# Geog 104 – Digital Earth
+# GEOG104 – Digital Earth
 ---
-**Instructor: Yi Qiang (yiqiang@hawaii.edu, 808-956-7526)**<br>
-**Meeting: PSB 310, Tue. & Thur. 9:00-10:15**
+##### Instructor: Yi Qiang <br/>Email: yiqiang@hawaii.edu <br/>Office: Saunders Hall 416, (Tel) 956-7526 <br/>Office hours: TBD
+
+##### Teaching Assistant: TBD
+
+##### Course website:<br/> http://laulima.hawaii.edu (for readings and assignments)<br/>https://github.com/qiang-yi/GEOG104 (for code and demos)
+
+##### Class time: Tuesday&Thursday 9AM to 10:15 AM <br/>Classroom: Physical Sciences Building 310 
 
 ### Overview
 This course is intended as an introduction to maps as tools for geographers. It will use digital mapping techniques as well as traditional topographic and thematic maps as concrete and accessible starting points for introducing the kinds of maps and images used by geographers, as well as methods for data collection, interpretation, analysis, and presentation that we have found useful. In addition to a digital form of maps, this course views digital map as a complex decision-making process including data acquisition, data modeling and storage, analysis, interpretation, and inference. Additionally, this course will introduce cutting-edge techniques in big data and cyberinfrastructure and how these techniques are revolutionizing the way that we collect and utilize geospatial information.
+
+The specific learning outcomes are:
+* 	Being able to correctly interpret map and use map to do measurement, analysis and decision-making;
+* 	Have a basic understanding of geographical information systems (GIS)
+* 	Being able to use GIS to create different types of maps using different forms of geospatial data
+* 	Being familiar with the development of geospatial technologies in the Era of Big Data and Web 2.0.
 
 ### Readings and Materials
 Suggested textbook (not required):
@@ -30,6 +41,22 @@ Grading: Grading will be based on my best professional judgment of our performan
 
 The components will be combined and the composite scores used to assess student achievement according to the criteria set forth in the UHM Catalog on section on "Credits and Grades" and especially the subsection on "Grades".
 
+### Course lab work
+Labs will be introduced in class and explanation will be given to accomplish the tasks.  Time will be allotted in class to work on the labs.  If more time is needed, they can be finished after class.  The teaching assistant will collect and grade the labs. **Labs up to 1 week late are penalized 20%. Labs more than 1 week late are penalized 100%.**
+
+Please note you may work together on labs, but you each must do every part of each lab, and **turn in entirely your own work**.  That means each of you should perform every step indicated in the lab manual. **Your grade is for individual effort; copied files/maps from other students will be construed as cheating, at a minimum you’ll get zero for the lab, and you may automatically fail the course.**
+
+All labs will be done in computer. We will set up an account for every student in the computer lab. The software to be used is ArcGIS 10, its extensions (such as spatial analyst and 3D analyst) and web mapping tools (e.g. Google Maps/Earth).
+
+Finished lab assignments should be submitted in **Microsoft Word** or **PDF** format through **Laulima**. Lab instructions will contain numbered questions to be answered and very specific deliverables such as maps, tables and graphs.
+
+### Attendance and participation
+The standard university guidelines apply, as you might imagine. However, I will repeat some of the essential “rules” for a successful course.  Be respectful to the instructor and fellow students.  Participation in class activities will be noted and will influence your final grade.  The following are never acceptable in class: chronic tardiness, talking out of turn, sleeping, reading non-class material, CELL PHONE USE, emailing or text messaging, and disruptive behavior.  You are responsible to make up missed information or work on your own time if absent or late.  Cheating of any type, on labs or exams will result in a zero for the work and a referral to appropriate school authorities.  This is a “learning through doing” course and you can only succeed through your own personal application.
+
+To that end, **unexcused absences of 5 or more will result in a failing grade for the course.**  You must communicate with your instructor if you know you will be absent.  Documentation for the absence may be required in order to be “excused.”
+
+If you have any challenges to learning and need support of any kind, you are invited to contract your instructor or teaching assistant for assistance or questions.
+
 ### Class Schedule
 |Week |   Topic|
 |---|---|
@@ -49,6 +76,6 @@ The components will be combined and the composite scores used to assess student 
 |Wk 14| Geospatial Big Data 2: social media|
 |Wk 15| Q&A, Final exame|
 
-** Important Note: This syllabus is tentative and may change. This is updated on June 17, 2017.**
+**Important Note: This syllabus is tentative and may change. This is updated on June 17, 2017.**
 
 
