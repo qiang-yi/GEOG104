@@ -1,6 +1,6 @@
 # Geog 104 – Digital Earth
 ---
-**Instructor: Yi Qiang (yiqiang@hawaii.edu, 808-956-7526)**
+**Instructor: Yi Qiang (yiqiang@hawaii.edu, 808-956-7526)**<br>
 **Meeting: PSB 310, Tue. & Thur. 9:00-10:15**
 
 ##### Overview
