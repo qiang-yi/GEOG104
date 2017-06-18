@@ -22,11 +22,11 @@ Supplementary readings will be recommended weekly
 
 ### Grading:
 Grading: Grading will be based on my best professional judgment of our performance on a set of weighted components. The components and weights are:
-•	50% - Weekly homework assignments
-•	15% - Midterm exam (mixed m.c. & short answer)
-•	15% - Final exam (mixed m.c. & short answer)
-•	10% - Participation
-•	10% - Term project
+- 50% - Weekly homework assignments
+- 15% - Midterm exam (mixed m.c. & short answer)
+- 15% - Final exam (mixed m.c. & short answer)
+- 10% - Participation
+- 10% - Term project
 
 The components will be combined and the composite scores used to assess student achievement according to the criteria set forth in the UHM Catalog on section on "Credits and Grades" and especially the subsection on "Grades".
 
