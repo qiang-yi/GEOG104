@@ -1,12 +1,12 @@
-#Geog 104 – Digital Earth
+# Geog 104 – Digital Earth
 ---
 **Instructor: Yi Qiang (yiqiang@hawaii.edu, 808-956-7526)**
 **Meeting: PSB 310, Tue. & Thur. 9:00-10:15**
 
-#####Overview
+##### Overview
 This course is intended as an introduction to maps as tools for geographers. It will use digital mapping techniques as well as traditional topographic and thematic maps as concrete and accessible starting points for introducing the kinds of maps and images used by geographers, as well as methods for data collection, interpretation, analysis, and presentation that we have found useful. In addition to a digital form of maps, this course views digital map as a complex decision-making process including data acquisition, data modeling and storage, analysis, interpretation, and inference. Additionally, this course will introduce cutting-edge techniques in big data and cyberinfrastructure and how these techniques are revolutionizing the way that we collect and utilize geospatial information.
 
-#####Readings and Materials
+##### Readings and Materials
 Suggested textbook (not required):
 
 *A. Jon Kimerling, Aileen R. Buckley, Phillip C. Muehrcke, and Juliana O. Muehrcke. 2009. Map Use: Reading and Analysis (6th ed.). Esri Press.*
@@ -14,13 +14,13 @@ Suggested textbook (not required):
 Supplementary readings will be recommended weekly
 
  
-#####Course Structure: 
+##### Course Structure: 
 •	30 lectures & labs, including 12 labs.
 •	11 regular labs, 1 final lab.
 •	2 exams (1 mid-terms, 1 final)
 •	Homework
 
-#####Grading:
+##### Grading:
 Grading: Grading will be based on my best professional judgment of our performance on a set of weighted components. The components and weights are:
 •	50% - Weekly homework assignments
 •	15% - Midterm exam (mixed m.c. & short answer)
