@@ -50,13 +50,6 @@ All labs will be done in computer. We will set up an account for every student i
 
 Finished lab assignments should be submitted in **Microsoft Word** or **PDF** format through **Laulima**. Lab instructions will contain numbered questions to be answered and very specific deliverables such as maps, tables and graphs.
 
-### Attendance and participation
-The standard university guidelines apply, as you might imagine. However, I will repeat some of the essential “rules” for a successful course.  Be respectful to the instructor and fellow students.  Participation in class activities will be noted and will influence your final grade.  The following are never acceptable in class: chronic tardiness, talking out of turn, sleeping, reading non-class material, CELL PHONE USE, emailing or text messaging, and disruptive behavior.  You are responsible to make up missed information or work on your own time if absent or late.  Cheating of any type, on labs or exams will result in a zero for the work and a referral to appropriate school authorities.  This is a “learning through doing” course and you can only succeed through your own personal application.
-
-To that end, **unexcused absences of 5 or more will result in a failing grade for the course.**  You must communicate with your instructor if you know you will be absent.  Documentation for the absence may be required in order to be “excused.”
-
-If you have any challenges to learning and need support of any kind, you are invited to contract your instructor or teaching assistant for assistance or questions.
-
 ### Class Schedule
 |Week |   Topic|
 |---|---|
