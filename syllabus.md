@@ -1,6 +1,6 @@
 # GEOG104 – Digital Earth
 ---
-##### Instructor: Yi Qiang <br/>Email: yiqiang@hawaii.edu <br/>Office: Saunders Hall 416, (Tel) 956-7526 <br/>Office hours: TBD
+##### Instructor: Yi Qiang <br/>Email: yiqiang@hawaii.edu <br/>Office: Saunders Hall 416, (Tel) 956-7526 <br/>Office hours:  Monday 1-3pm, Saunders 416
 
 ##### Teaching Assistant: TBD
 
