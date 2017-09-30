@@ -49,24 +49,31 @@ All labs will be done in computer. We will set up an account for every student i
 
 Finished lab assignments should be submitted in **Microsoft Word** or **PDF** format through **Laulima**. Lab instructions will contain numbered questions to be answered and very specific deliverables such as maps, tables and graphs.
 
+#### Grade scale
+
+|A+ 97.5-100	|B+ 87.5-89.99	|C+ 77.5-79.99	|D+ 60.0-64.49|
+|---------------|-------|--------|--------|
+|A   92.5-97.49	|B   82.5-87.49	|C   70-77.49	|D   50.0-59.99|
+|A-  90-92.49	|B-  80-82.49	|C-  65-69.99	|F   <50|
+
 ### Class Schedule
 |Week |   Topic|
 |---|---|
 |Wk 1|Introductions of course, requirements, instructor & students <br> Definitions of "Map"|
-|Wk 2| Map Projections: concepts and properties|
-|Wk 3| Map Projections: examples and use cases |
-|Wk 4| Coordinate systems: Lat, Lon, UTM, SPCS, Nation Grid|
-|Wk 5| Coordinate systems: Lat, Lon, UTM, SPCS, Nation Grid|
-|Wk 6| Spatial metrics: Distance, area and volume|
-|Wk 7| The Two Views of the World: Vector and Raster|
-|Wk 8| Remotely Sensed Imagery: Photographs, Scanners and More <br> Mid-term exam|
-|Wk 9| Terrain Mapping |
-|Wk 10| Time and Movement in Map|
+|Wk 2| Geographic coordinate system (lattitude, longitude)|
+|Wk 3| Map Projections|
+|Wk 4| Projected coordinate systems: UTM, SPCS, Nation Grid|
+|Wk 5| Thematic maps: qualitative maps|
+|Wk 6| Thematic maps: quantitative maps|
+|Wk 7| Digital Terrain Mapping|
+|Wk 8| Q&A, mid-term exam|
+|Wk 9| Remotely Sensed Imagery: Photographs, Scanners and More|
+|Wk 10| Time and Dynamics in Map|
 |Wk 11| Geographical Information Systems (GIS)|
-|Wk 12| Mobile map and Location-Based Service|
+|Wk 12| GPS, mobile map and location-based services|
 |Wk 13| Geospatial Big Data 1: volunteer GIS (VGIS) and public participation GIS (PPGIS)|
 |Wk 14| Geospatial Big Data 2: social media|
-|Wk 15| Q&A, Final exame|
+|Wk 15| Q&A, Final exam|
 
 **Important Note: This syllabus is tentative and may change. This is updated on June 17, 2017.**
 
