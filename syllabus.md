@@ -20,7 +20,8 @@ The specific learning outcomes are:
 ### Readings and Materials
 Suggested textbook (not required):
 
-*A. Jon Kimerling, Aileen R. Buckley, Phillip C. Muehrcke, and Juliana O. Muehrcke. 2009. Map Use: Reading and Analysis (6th ed.). Esri Press.*
+Kimerling, A.J., Buckley, A.R., Muehrcke, P.C. and Muehrcke, J.O., 2009. *Map use: reading and analysis*. Esri Press.
+
 
 Supplementary readings will be recommended weekly
 
