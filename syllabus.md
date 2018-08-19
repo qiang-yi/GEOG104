@@ -2,7 +2,7 @@
 ---
 ##### Instructor: Yi Qiang <br/>Email: yiqiang@hawaii.edu <br/>Office: Saunders Hall 416, (Tel) 956-7526 <br/>Office hours:  Monday 1-3pm, Saunders 416
 
-##### Teaching Assistant: Jinwen Xu <br/>Email: jinwenxu@hawaii.edu
+##### Teaching Assistant: Jinwen Xu <br/>Email: jinwenxu@hawaii.edu <br/>Office: Saunders Hall 422
 
 ##### Course website:<br/> http://laulima.hawaii.edu (for assignments)<br/>https://github.com/qiang-yi/GEOG104 (for course materials)
 
