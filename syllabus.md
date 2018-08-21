@@ -2,7 +2,7 @@
 ---
 ##### Instructor: Yi Qiang <br/>Email: yiqiang@hawaii.edu <br/>Office: Saunders Hall 416, (Tel) 956-7526 <br/>Office hours:  Monday 1-3pm, Saunders 416
 
-##### Teaching Assistant: Jinwen Xu <br/>Email:jinwenxu@hawaii.edu <br/>Office hour: Tuesday & Thursday 10:30 am - 12:00 pm
+##### Teaching Assistant: Jinwen Xu <br/>Email:jinwenxu@hawaii.edu <br/> Office: Saunders Hall 416 <br/>Office hour: Tuesday & Thursday 10:30 am - 12:00 pm
 
 ##### Course website:<br/> http://laulima.hawaii.edu (for lecture slides, readings, lab exercises/assignments)
 ##### Class time: Tuesday&Thursday 9AM to 10:15 AM <br/>Classroom: Physical Sciences Building 310 
