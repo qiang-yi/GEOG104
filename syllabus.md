@@ -48,30 +48,31 @@ Finished lab assignments should be submitted in **Microsoft Word** or **PDF** fo
 
 #### Grade scale
 
-|A+ 97.5-100	|B+ 87.5-89.99	|C+ 77.5-79.99	|D+ 60.0-64.49|
+
+|A+ 95-100	|B+ 85-87.49	|C+ 75-77.49	|D 50-59.9|
 |---------------|-------|--------|--------|
-|A   92.5-97.49	|B   82.5-87.49	|C   70-77.49	|D   50.0-59.99|
-|A-  90-92.49	|B-  80-82.49	|C-  65-69.99	|F   <50|
+|A   90 - 94.9	|B   80 - 84.9	|C   65-74.9	|F < 50|
+|A-  87.5 - 89.9	|B-  77.5 - 79.9	|C-  60-64.9	| |
 
 ### Class Schedule
 |Week |   Topic|
 |---|---|
-|Wk 1|Introductions of course, requirements, instructor & students|
-|Wk 2| Geospatial Revolution|
-|Wk 3| Map|
-|Wk 4| Geographic coordinate system (lattitude, longitude)|
-|Wk 5| Map Projections|
-|Wk 6| Projected coordinate systems: UTM, SPCS, Nation Grid|
-|Wk 7| Thematic maps: qualitative maps|
-|Wk 8| Thematic maps: quantitative maps|
-|Wk 9| Digital Terrain Mapping|
-|Wk 10| Q&A, mid-term exam|
-|Wk 11| Remotely Sensed Imagery: Photographs, Scanners and More|
-|Wk 12| Time and Dynamics in Map|
-|Wk 13| Geographical Information Systems (GIS)|
-|Wk 14| GPS, mobile map and location-based services|
-|Wk 15| Geospatial Big Data 1: volunteer GIS (VGIS) and public participation GIS (PPGIS)|
-|Wk 16| Geospatial Big Data 2: social media|
+|Wk 1|Course Introduction, Geospatial Revolution|
+|Wk 2| Map|
+|Wk 3| Geographic coordinate system (lattitude, longitude)|
+|Wk 4| Map Projections|
+|Wk 5| Projected coordinate systems: UTM, SPCS, Nation Grid|
+|Wk 6| Thematic maps: qualitative maps|
+|Wk 7| Thematic maps: quantitative maps|
+|Wk 8| Digital Terrain Mapping|
+|Wk 9| Q&A, mid-term exam|
+|Wk 10| Remotely Sensed Imagery: Photographs, Scanners and More|
+|Wk 11| Time and Dynamics in Map|
+|Wk 12| Geographical Information Systems (GIS)|
+|Wk 13| GPS, mobile map and location-based services|
+|Wk 14| Geospatial Big Data 1: volunteer GIS (VGIS) and public participation GIS (PPGIS)|
+|Wk 15| Geospatial Big Data 2: social media|
+|Wk 16| Critics for geotechnologies|
 |Wk 17| Q&A, Final exam|
 
 **Important Note: This syllabus is tentative and may change. This is updated on June 17, 2017.**
